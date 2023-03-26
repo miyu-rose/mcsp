@@ -1,5 +1,5 @@
 # mcsp
-MACS LOADER/PLAYER
+MACS LOADER/PLAYER for X680x0
 
 ・再生環境を選ぶ、低機能な MACS ローダ/プレイヤです。  
 　ロード中のプログレスバーもございません。  
