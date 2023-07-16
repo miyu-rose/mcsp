@@ -21,5 +21,8 @@ MACS LOADER/PLAYER for X680x0
 　たんぼ(TNB製作所) さまの TS16FILE.x 常駐で再生可  
 　（但しSCSIドライブは読み込み速度的に実用的ではないかも）  
 
-　[PhantomX + PXVDISK ドライブ上のファイル]  
-　現行バージョンではサイズによって正常再生不可（現在、対応策検討中）  
+　[PhantomX v1.02c以前 + PXVDISK ドライブ上のファイル]  
+　正常再生不可　（危険ですので試さないでください）
+
+　[PhantomX v1.03a以降 + PXVDISK ドライブ上のファイル]  
+　そのまま再生可  
